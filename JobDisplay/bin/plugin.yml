@@ -1,0 +1,9 @@
+main: me.HybridPlague.JobDisplay.Main
+name: JobDisplay
+author: HybridPlague
+version: 1.0
+api-version: 1.13
+
+commands:
+  JobDisplay:
+    aliases: [display]
